@@ -1,3 +1,91 @@
+
+## Forensics
+<table>
+    <thead>
+        <tr class="header">
+            <th>Challenges</th>
+            <th>Points</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="Forensics/Warmup1/README.md">Forensics Warmup 1</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Warmup2/README.md">Forensics Warmup 2</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Desrouleaux">Desrouleaux</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Reading%20Between%20the%20Eyes">Reading Between the Eyes</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Recovering%20From%20the%20Snap">Recovering From the Snap</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/admin%20panel">admin panel</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/hex%20editor">hex editor</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Truly%20an%20Artist">Truly an Artist</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/now%20you%20don%27t">now you don't</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Ext%20Super%20Magic">Ext Super Magic</a></td>
+            <td markdown="span">250</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Lying%20Out">Lying Out</a></td>
+            <td markdown="span">250</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/What%27s%20My%20Name%3F">What's My Name?</a></td>
+            <td markdown="span">250</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/core">core</a></td>
+            <td markdown="span">350</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Malware%20Shops">Malware Shops</a></td>
+            <td markdown="span">400</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/LoadSomeBits">LoadSomeBits</a></td>
+            <td markdown="span">550</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+    </tbody>
+</table>
 ## Binary Exploitation
 <table>
     <thead>
@@ -179,93 +267,7 @@
     </tbody>
 </table>
 
-## Forensics
-<table>
-    <thead>
-        <tr class="header">
-            <th>Challenges</th>
-            <th>Points</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td markdown="span"><a href="Forensics/Forensics%20Warmup%201">Forensics Warmup 1</a></td>
-            <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Forensics%20Warmup%202">Forensics Warmup 2</a></td>
-            <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Desrouleaux">Desrouleaux</a></td>
-            <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Reading%20Between%20the%20Eyes">Reading Between the Eyes</a></td>
-            <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Recovering%20From%20the%20Snap">Recovering From the Snap</a></td>
-            <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/admin%20panel">admin panel</a></td>
-            <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/hex%20editor">hex editor</a></td>
-            <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Truly%20an%20Artist">Truly an Artist</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/now%20you%20don%27t">now you don't</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Ext%20Super%20Magic">Ext Super Magic</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Lying%20Out">Lying Out</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/What%27s%20My%20Name%3F">What's My Name?</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/core">core</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/Malware%20Shops">Malware Shops</a></td>
-            <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Forensics/LoadSomeBits">LoadSomeBits</a></td>
-            <td markdown="span">550</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-    </tbody>
-</table>
+
 
 ## General Skills
 <table>
