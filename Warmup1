@@ -5,28 +5,15 @@ Points: 50
 Forensics
 
 ## Question
->Can you unzip this [file] for me and retreive the flag?  
+>Can you unzip this [file](file/flag.zip) for me and retreive the flag?  
 
 ### Hint
->If at first you don't succeed, try, try again. And again. And again.
->
->If you're not careful these kind of problems can really "rockyou".
+>Make sure to submit the flag as picoCTF{XXXXX}
 
 ## Solution
-Do `john --wordlist=rockyou.txt shadow`
+Extract the zip file to get _flag.jpg_.
 
-The file _rockyou.txt_ can be found from _/usr/share/wordlists/rockyou.txt.gz_.
-
-Extract the file by doing `gzip -d rockyou.txt.gz`
-
-Connect to service and enter in credentials to get the flag.
-
-```
-$ nc 2018shell1.picoctf.com 5221
-Username: root
-Password: thematrix
-picoCTF{J0hn_1$_R1pp3d_289677b5}
-```
+Open the image in an image viewer to get the flag.
 
 ### Flag
-`picoCTF{J0hn_1$_R1pp3d_289677b5}`
+`picoCTF{welcome_to_forensics}`
