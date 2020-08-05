@@ -1,4 +1,4 @@
-# Warmup 1
+# Warmup 2
 Points: 50
 
 ## Category
