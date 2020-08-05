@@ -13,5 +13,7 @@ General Skills
 ## Solution
 Go for an online number converter from base 2 to base 10
 
+you will get 11011
+
 ### Flag
 `picoCTF{11011}`
