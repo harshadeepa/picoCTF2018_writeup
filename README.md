@@ -398,14 +398,14 @@
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="Reversing/Reversing%20Warmup%201">Reversing Warmup 1</a></td>
+            <td markdown="span"><a href="Reversing/Reversingwarmup1/README.md">Reversing Warmup 1</a></td>
             <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Reversing/Reversing%20Warmup%202">Reversing Warmup 2</a></td>
+            <td markdown="span"><a href="Reversing/Reversingwarmup2/README.md">Reversing Warmup 2</a></td>
             <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Reversing/assembly-0">assembly-0</a></td>
